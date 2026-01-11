@@ -1,0 +1,9 @@
+# Godot project configuration
+# This file is in no particular order and relies on `gui/common/property_name_style` for how it is formatted
+# Conversion might happen when this file is loaded in the first time.
+
+config_version=5
+
+[application]
+config/name="Bacon Cat Platformer"
+config/version="0.1.0"
